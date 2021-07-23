@@ -28,9 +28,9 @@ new_odd_list = []
 for x in my_initial_list:
     if x % 2 != 0:
         new_odd_list.append(x)
-
 print(new_odd_list)
 
 
 multiple_of_three = my_initial_list[1::3]
 print("My multiple of three list:", multiple_of_three)
+
