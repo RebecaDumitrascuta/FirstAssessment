@@ -30,6 +30,7 @@ for x in my_asc_list:
         new_odd_list.append(x)
 print(new_odd_list)
 
+
 multiple_of_three = my_asc_list[2::3]
 print("My multiple of three list:", multiple_of_three)
 
